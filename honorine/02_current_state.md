@@ -14,7 +14,7 @@ High-signal dashboard of what matters right now.
 - Light state: Daylight
 - Weather: Still, dry air
 - Visibility: Moderate through grass and openings; thickets and trees crowd the edges
-- Immediate hazards: A mortally wounded doe; sign of a clawed predator; unknown danger associated with the corpse
+- Immediate hazards: A young rake is active at close range; Honorine is unconscious beside the dead doe
 
 ## Time
 
@@ -24,20 +24,23 @@ High-signal dashboard of what matters right now.
 
 ## Active Trackers
 
-- Current region transgression track: Unknown region, no confirmed transgressions yet this session
-- Other active danger/escalation trackers: Unknown threat near the doe; unexplored rake track to the west; hidden trail condition tied to a wood thrush song
+- Current region transgression track: Unknown region; 2 confirmed transgression events this session from combat rolls where the Darkest Die was highest
+- Other active danger/escalation trackers: Young rake still active; unexplored rake track to the west; hidden trail condition tied to a wood thrush song; later critical survival roll pending because Honorine is unconscious with a wound higher than her own Rating
 
 ## Immediate Situation
 
-- What is happening right now: Honorine has followed the north trail from the Abandoned Campground and arrived at a grass opening where a dying doe lies in distress.
-- Immediate objective: Assess the scene, understand the danger, and decide whether to intervene.
-- Immediate threats: Whatever mortally wounded the doe; the possibility of a lure or ambush; psychological shock from what may follow the animal's death
+- What is happening right now: Honorine tried to comfort the dying doe, witnessed a monstrosity burst from its belly, lashed out with her Bowie knife, was struck by the young rake, and collapsed unconscious.
+- Immediate objective: Survival.
+- Immediate threats: The young rake at close range; blood loss and bodily collapse; unknown nearby predator associated with the clawprints and westward track
 
 ## Recent Changes
 
 - Honorine left the Abandoned Campground by the north trail.
 - Honorine is carrying recovered supplies and clue objects from the campground.
 - Honorine has reached a new scene marked by predator sign and a wood thrush symbol.
+- The doe is dead.
+- A young rake emerged from the doe.
+- Honorine has suffered severe injury and is unable to act.
 
 ## Learned Patterns
 
@@ -46,6 +49,7 @@ High-signal dashboard of what matters right now.
 - Retracing the same path on consecutive days is dangerous.
 - Shadowfolk are watchers and likely tied to emotional or mental danger rather than bodily violence.
 - Bird symbols may mark special conditions or routes.
+- The woods can intensify confusion and bad footing when the Darkest Die turns against Honorine in violence.
 
 ## Open Mysteries
 
@@ -69,6 +73,7 @@ High-signal dashboard of what matters right now.
 
 - Eyes of the Wood:
 - Other temporary or unusual states:
+  - Unconscious from injury
 
 ## Notes
 
