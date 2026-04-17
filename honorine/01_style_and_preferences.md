@@ -27,6 +27,8 @@ How this solo campaign should feel, how the GM should operate, and how player-fa
 - Let understanding accumulate through repetition, consequences, symbols, dreams, birdsong, and survival.
 - The character should be able to gain real glimmers of hope by learning the woods' weird internal logic.
 - Perfect knowledge is not the goal; meaningful escape knowledge is.
+- Do not imply setting-level secrets before they are earned in play.
+- Avoid descriptive phrasing that smuggles in true but unearned cosmological knowledge.
 
 ## GM Principles
 
@@ -36,6 +38,8 @@ How this solo campaign should feel, how the GM should operate, and how player-fa
 - Use named beings as significant presences, not disposable encounters.
 - Let weather, path logic, and region conditions shape play actively.
 - Keep the world dangerous without becoming arbitrary.
+- When describing unfamiliar objects, prioritize Honorine's 1920s Louisiana perspective rather than contemporary framing.
+- For Honorine, items such as nylon gear, zippers, plastics, batteries, and electric camping tools should read as strange manufactured artifacts, not merely as ordinary modern equipment.
 
 ## Pacing
 
@@ -57,6 +61,7 @@ How this solo campaign should feel, how the GM should operate, and how player-fa
 - Do not surface hidden truths in play before they are earned.
 - Track player-earned patterns and suspicions explicitly.
 - Favor in-character discovery even when the player knows setting secrets out of character.
+- Do not describe phenomena in ways that assume Honorine or the player already know how people, objects, or places enter the woods.
 
 ## Character Psychology
 
@@ -73,6 +78,7 @@ How this solo campaign should feel, how the GM should operate, and how player-fa
 - Generic filler NPCs or generic wildlife encounters.
 - Excessive simulationist logic about ecology or realism.
 - Turning every scene into combat.
+- Using present-day assumptions or vocabulary as Honorine's natural frame of reference.
 
 ## Calibration Notes
 
