@@ -29,17 +29,21 @@ High-signal dashboard of what matters right now.
 
 ## Immediate Situation
 
-- What is happening right now: Honorine has emerged into a grassy clearing containing an abandoned modern campsite, a cold fire pit, scattered tarot cards, and a bright orange tent.
-- Immediate objective: Assess the site, gather useful information, and decide which path to follow.
+- What is happening right now: Honorine is kneeling by the cold fire pit, studying Clarice's annotated tarot cards.
+- Immediate objective: Extract practical warnings from the cards before choosing a path.
 - Immediate threats: Hidden observers in the trees; unknown consequences tied to the marked location; possible lure or trap associated with the mournful sound to the north
 
 ## Recent Changes
 
 - Honorine has entered the woods and reached the Abandoned Campground.
+- Honorine has closely studied the abandoned tarot spread and handwritten warnings.
 
 ## Learned Patterns
 
-- None yet.
+- The prior campers were using tarot cards as a field record of woods-logic rather than simple divination.
+- Place names, beings, and warnings may be distributed across the woods and cross-referenced through the cards.
+- Retracing the same path on consecutive days is dangerous.
+- Shadowfolk are watchers and likely tied to emotional or mental danger rather than bodily violence.
 
 ## Open Mysteries
 
@@ -48,6 +52,8 @@ High-signal dashboard of what matters right now.
 - What is the significance of the missing suit of Pentacles, Death, and the Hermit?
 - What are the Silent Watchers, and what exactly triggers them?
 - What lies north where the dying-doe sound came from?
+- What is the Orange Moon?
+- Why does Clarice think the 10 of Cups has no meaning here?
 
 ## Pre-Campaign Pressures
 
