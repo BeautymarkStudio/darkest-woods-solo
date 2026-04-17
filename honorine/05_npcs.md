@@ -95,3 +95,59 @@ Current state of all significant named entities in the campaign, including witch
 - Hidden truth or pressure: Muriel's memory binds together Honorine's longing, grief, jealousy, tenderness, and shame
 - Wounds or notable conditions:
 - Notes: Her absence is one of the central emotional voids that shaped Honorine into someone the woods could claim.
+
+### Annie
+
+- Nature: Missing hiker
+- Rating:
+- Modified Ratings:
+- Status: Missing before campaign start
+- Attitude:
+- Domain or last seen: Abandoned Campground
+- What has changed:
+- What they want:
+- Hidden truth or pressure:
+- Wounds or notable conditions:
+- Notes: Associated with the 9 of Swords and a first tarot draw marked by anxiety, trauma, and hopelessness.
+
+### Raj
+
+- Nature: Missing hiker
+- Rating:
+- Modified Ratings:
+- Status: Missing before campaign start
+- Attitude:
+- Domain or last seen: Abandoned Campground
+- What has changed:
+- What they want:
+- Hidden truth or pressure:
+- Wounds or notable conditions:
+- Notes: Associated with the Chariot reversed and a first tarot draw marked by lack of direction or control.
+
+### Clarice
+
+- Nature: Missing hiker
+- Rating:
+- Modified Ratings:
+- Status: Missing before campaign start
+- Attitude:
+- Domain or last seen: Abandoned Campground
+- What has changed: Her notebook and annotated tarot cards remain in camp
+- What they want:
+- Hidden truth or pressure:
+- Wounds or notable conditions:
+- Notes: Her handwriting appears on the notebook and tarot annotations. She was investigating birdsongs.
+
+### Shadowfolk / Silent Watchers
+
+- Nature: Shadowy watchers in the trees; hostile under specific conditions
+- Rating: 4 each
+- Modified Ratings:
+- Status: Potentially present near the Abandoned Campground
+- Attitude: Watchful unless provoked by approach or trespass from a marked location
+- Domain or last seen: Tree line at the Abandoned Campground
+- What has changed:
+- What they want:
+- Hidden truth or pressure: Their attacks are mental, not physical, and victims may be rendered into shadowy substance and taken away
+- Wounds or notable conditions:
+- Notes: A carved Silent Watchers symbol marks their presence here.
