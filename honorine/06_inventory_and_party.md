@@ -127,10 +127,19 @@ Player-character state, personal history anchors, Ratings, wounds, Dooms, and ca
 - Bedroll
 - Tarot cards
 - Additional sketchbook, pens, and inks
+- Strange electric lantern
+- Nylon backpack
+- Compass
+- Wrapped chocolate bars
+- Half sandwich in sealed wrapper
+- Clarice's notebook
+- Woodfolk matchbox
+- Annotated tarot cards from the campsite
 
 ## Not Carried / Stored / Left Behind
 
-- None yet.
+- Unmarked tarot cards left scattered at the Abandoned Campground
+- Tent and remaining campsite debris left at the Abandoned Campground
 
 ## Resource Notes
 
@@ -142,12 +151,17 @@ Player-character state, personal history anchors, Ratings, wounds, Dooms, and ca
   - Amulet woven of root and hair, Yeshiva Tigris
   - Tarot cards
   - Watchman's tree
+  - Strange electric lantern
+  - Compass
+  - Clarice's notebook
+  - Annotated tarot cards from the campsite
 
 ## Character Change Log
 
 - 2026-04-17: Initial character mechanics and pre-woods premise added.
 - 2026-04-17: Added finalized Bloom of Power allocation, strongest specialty in healing/herbalism, arrival premise, and the Crossrow miracle backstory.
 - 2026-04-17: Added Muriel, Cal, and the deeper emotional history around Honorine's grief, guilt, and rage.
+- 2026-04-17: Took key supplies and clue objects from the Abandoned Campground.
 
 ## Cypher Abilities And Traits Reference
 
