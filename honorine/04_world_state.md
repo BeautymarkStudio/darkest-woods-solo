@@ -115,23 +115,17 @@ Persistent state of the woods: regions, areas, locations, paths, objects, weathe
   - Transitional entry point into the woods
   - May contain clues that recur elsewhere through the hikers Annie, Raj, and Clarice
 - State:
-  - Tent intact and unopened at campaign start
+  - Tent opened by Honorine during first visit
   - Fire pit cold but recent
-  - Tarot deck scattered near pit
+  - Annotated cards taken by Honorine
+  - Notebook, backpack contents, and lantern taken by Honorine
   - Silent Watchers symbol carved into a tree
 - Objects present:
   - Orange nylon tent
-  - Electric lantern
-  - Nylon backpack
-  - Compass
-  - Wrapped chocolate bars
-  - Half sandwich in sealed plastic bag
-  - Clarice's notebook
-  - Woodfolk matches
-  - Tarot deck with missing cards and annotations
+  - Unmarked tarot cards scattered near pit
+  - Remaining campsite debris
 - Hazards:
-  - If a traveler leaves the path from this marked location or directly approaches the shadowfolk, shadowfolk attack is immediate
-  - Shadowfolk attacks here are mental, not physical
+  - Unknown to Honorine at first visit; marked by Silent Watchers sign
 - Weather notes:
   - Dry enough that ash remains undisturbed; no recent rain
 - First visited: Session 1
@@ -142,6 +136,36 @@ Persistent state of the woods: regions, areas, locations, paths, objects, weathe
   - Annotated cards reference the Witches, Shadowfolk, A Town Called Dismal, the Orange Moon, and the warning not to retrace steps on consecutive days.
   - Clarice's notebook contains “BIRDSONGS” and a carefully erased note reading “Robin?” on the next page.
   - A mournful dying-doe sound was heard from the north on arrival.
+
+### The Rake and the Doe
+
+- Region: Unknown
+- Area: Unknown
+- Type: Grass opening within dense trees
+- Connections:
+  - Trail south -> Abandoned Campground (about 200 yards)
+  - Rake Track west -> Rake's Ambush (about 100 yards)
+- Special links:
+  - If the wood thrush song is heard here, a hidden trail opens to the northeast toward the People of the Wood
+- State:
+  - Dying doe present on first arrival
+  - Wood thrush symbol carved into a tree
+  - Clawprints visible near the path
+- Objects present:
+  - Mortally wounded doe
+  - Blood in the grass
+  - Wood thrush symbol
+  - Clawprints
+- Hazards:
+  - Unknown predator sign
+  - Threat associated with the doe's death
+- Weather notes:
+  - Daylight, still air, dry ground
+- First visited: Session 1
+- Notes:
+  - The doe's throat is torn out and the wound does not resemble an ordinary hunt cleanly finished.
+  - The doe appears heavily pregnant.
+  - The clearing is ringed by thickets and trees, but the dying animal lies in a patch of tall dark green grass free of other growth.
 
 ## Objects And Relics
 
@@ -157,17 +181,17 @@ Persistent state of the woods: regions, areas, locations, paths, objects, weathe
 ### Clarice's Notebook
 
 - Name: Clarice's Notebook
-- Current location: Abandoned Campground
-- State: Present at campaign start
+- Current location: Carried by Honorine
+- State: Recovered from the Abandoned Campground
 - Rating, if relevant:
 - Significance: Early clue object tied to birdsong mystery and hiker trail
 - Notes: First page reads “BIRDSONGS.” Second page bears erased text, “Robin?”
 
 ### Annotated Tarot Deck
 
-- Name: Annotated Tarot Deck
-- Current location: Abandoned Campground
-- State: Scattered in dirt near fire pit
+- Name: Annotated Tarot Cards
+- Current location: Carried by Honorine
+- State: Recovered from the Abandoned Campground
 - Rating, if relevant:
 - Significance: Encodes warnings, place references, and absences that likely map to woods logic
 - Notes:
@@ -182,6 +206,15 @@ Persistent state of the woods: regions, areas, locations, paths, objects, weathe
   - 4 of Swords horizontal: “A Town Called Dismal.”
   - The Moon: “Beware the Orange Moon.”
   - The Sun reversed: “Don't retrace your steps on consecutive days.”
+
+### Strange Electric Lantern
+
+- Name: Strange Electric Lantern
+- Current location: Carried by Honorine
+- State: Functional when tested
+- Rating, if relevant:
+- Significance: Unfamiliar artificial light source recovered from the campsite
+- Notes: Produces strong steady light with no visible flame or fuel chamber.
 
 ## Birdsong Path
 
@@ -207,6 +240,7 @@ Persistent state of the woods: regions, areas, locations, paths, objects, weathe
 
 - Symbols identified:
   - Silent Watchers symbol found carved into a tree at the Abandoned Campground
+  - Wood thrush symbol found at The Rake and the Doe
 
 ### Opened Paths
 
