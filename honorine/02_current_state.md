@@ -10,11 +10,11 @@ High-signal dashboard of what matters right now.
 
 - Region: Unknown
 - Area: Unknown
-- Location: Abandoned Campground
+- Location: The Rake and the Doe
 - Light state: Daylight
-- Weather: Still, dry air; no recent rain
-- Visibility: Clear in the open clearing; tree line dense and watchful
-- Immediate hazards: Possible shadowfolk presence in the trees; unknown path logic; abandoned campsite of unclear age
+- Weather: Still, dry air
+- Visibility: Moderate through grass and openings; thickets and trees crowd the edges
+- Immediate hazards: A mortally wounded doe; sign of a clawed predator; unknown danger associated with the corpse
 
 ## Time
 
@@ -25,18 +25,19 @@ High-signal dashboard of what matters right now.
 ## Active Trackers
 
 - Current region transgression track: Unknown region, no confirmed transgressions yet this session
-- Other active danger/escalation trackers: Shadowfolk may attack if a marked tree line is approached or if the path is left from this location
+- Other active danger/escalation trackers: Unknown threat near the doe; unexplored rake track to the west; hidden trail condition tied to a wood thrush song
 
 ## Immediate Situation
 
-- What is happening right now: Honorine is kneeling by the cold fire pit, studying Clarice's annotated tarot cards.
-- Immediate objective: Extract practical warnings from the cards before choosing a path.
-- Immediate threats: Hidden observers in the trees; unknown consequences tied to the marked location; possible lure or trap associated with the mournful sound to the north
+- What is happening right now: Honorine has followed the north trail from the Abandoned Campground and arrived at a grass opening where a dying doe lies in distress.
+- Immediate objective: Assess the scene, understand the danger, and decide whether to intervene.
+- Immediate threats: Whatever mortally wounded the doe; the possibility of a lure or ambush; psychological shock from what may follow the animal's death
 
 ## Recent Changes
 
-- Honorine has entered the woods and reached the Abandoned Campground.
-- Honorine has closely studied the abandoned tarot spread and handwritten warnings.
+- Honorine left the Abandoned Campground by the north trail.
+- Honorine is carrying recovered supplies and clue objects from the campground.
+- Honorine has reached a new scene marked by predator sign and a wood thrush symbol.
 
 ## Learned Patterns
 
@@ -44,6 +45,7 @@ High-signal dashboard of what matters right now.
 - Place names, beings, and warnings may be distributed across the woods and cross-referenced through the cards.
 - Retracing the same path on consecutive days is dangerous.
 - Shadowfolk are watchers and likely tied to emotional or mental danger rather than bodily violence.
+- Bird symbols may mark special conditions or routes.
 
 ## Open Mysteries
 
@@ -51,9 +53,10 @@ High-signal dashboard of what matters right now.
 - Why are tarot warnings scattered through the camp?
 - What is the significance of the missing suit of Pentacles, Death, and the Hermit?
 - What are the Silent Watchers, and what exactly triggers them?
-- What lies north where the dying-doe sound came from?
 - What is the Orange Moon?
 - Why does Clarice think the 10 of Cups has no meaning here?
+- What killed the doe, and is it still nearby?
+- What opens the hidden trail marked by the wood thrush symbol?
 
 ## Pre-Campaign Pressures
 
