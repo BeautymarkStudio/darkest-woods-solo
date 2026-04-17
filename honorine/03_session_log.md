@@ -25,6 +25,8 @@ Chronological record of meaningful play events, discoveries, consequences, and s
 - Major events:
   - A mournful sound like a dying doe was heard from the north.
   - Honorine studied the annotated tarot cards by the fire pit.
+  - Honorine opened the tent, searched the backpack, read Clarice's notebook, studied the Woodfolk matches, tested a corner of one chocolate bar, gathered the annotated cards, and left by the north trail.
+  - Honorine arrived at The Rake and the Doe.
 - Discoveries:
   - The campsite appears recent and dry.
   - The notebook in camp is labeled Clarice's and begins with the word “BIRDSONGS.”
@@ -35,10 +37,15 @@ Chronological record of meaningful play events, discoveries, consequences, and s
   - The Ace of Cups reversed links the Shadowfolk to watching and emotional danger.
   - The Moon warns of an Orange Moon.
   - The 10 of Cups is marked as having no meaning here, suggesting ordinary ideas of fulfillment may fail inside the woods.
+  - Clarice's notebook suggests the hikers were trying to identify birdsongs.
+  - A wood thrush symbol marks the new location.
+  - A dying doe and claw-mark signs indicate a nearby predator or recent attack.
 - Emotional or character revelations:
   - Honorine recognized the cards as the work of frightened but methodical people trying to impose pattern on an inhuman place.
+  - Taking selected objects from the campsite shifted them, emotionally, from evidence into tools and provisions.
 - State changes:
   - Campaign start.
-  - Honorine has not yet chosen a path or taken any transgressive action.
+  - Honorine took key supplies and clue objects from the campsite.
+  - Honorine moved to a new location without any confirmed transgression.
 - End:
-  - In progress.
+  - In progress at The Rake and the Doe.
