@@ -148,24 +148,28 @@ Persistent state of the woods: regions, areas, locations, paths, objects, weathe
 - Special links:
   - If the wood thrush song is heard here, a hidden trail opens to the northeast toward the People of the Wood
 - State:
-  - Dying doe present on first arrival
+  - Doe dead
+  - Young rake emerged from the doe on first visit
+  - Honorine unconscious on the ground after the young rake's attack
   - Wood thrush symbol carved into a tree
   - Clawprints visible near the path
 - Objects present:
-  - Mortally wounded doe
+  - Dead doe
   - Blood in the grass
   - Wood thrush symbol
   - Clawprints
 - Hazards:
-  - Unknown predator sign
-  - Threat associated with the doe's death
+  - Young rake active at close range
+  - Sign of a larger or prior clawed predator continuing west
 - Weather notes:
   - Daylight, still air, dry ground
 - First visited: Session 1
 - Notes:
   - The doe's throat is torn out and the wound does not resemble an ordinary hunt cleanly finished.
-  - The doe appears heavily pregnant.
-  - The clearing is ringed by thickets and trees, but the dying animal lies in a patch of tall dark green grass free of other growth.
+  - The doe appeared heavily pregnant before death.
+  - The clearing is ringed by thickets and trees, but the animal died in a patch of tall dark green grass free of other growth.
+  - A transformed monstrosity, described in play as a young rake, burst from the doe's belly rather than a natural fawn.
+  - The young rake attacked immediately.
 
 ## Objects And Relics
 
