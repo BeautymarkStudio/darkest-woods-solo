@@ -57,23 +57,14 @@ Player-character state, personal history anchors, Ratings, wounds, Dooms, and ca
   - Rating 2 for intimidating or extracting a revealing fact from a creature
   - Rating 2 when looking for hidden things
   - Positive social interaction is hindered
-- Cypher reference:
-  - Tier: 1
-  - Effort: 1
-  - Intellect Edge: 1
-  - Might Edge: 0
-  - Speed Edge: 0
-  - Stat Pools before Bloom of Power: Might 8, Speed 10, Intellect 16
-  - Bloom of Power allocation: +1 Might, +1 Speed, +1 Intellect
-  - Stat Pools after Bloom of Power: Might 9, Speed 11, Intellect 17
 
 ## Physical Wounds
 
-- None yet.
+- Rating 7 wound: catastrophic laceration and collapse from the young rake's attack at The Rake and the Doe
 
 ## Mental Wounds
 
-- None yet.
+- Rating 1 wound: shock and horror from witnessing the young rake burst from the doe's belly
 
 ## Dooms
 
@@ -86,6 +77,8 @@ Player-character state, personal history anchors, Ratings, wounds, Dooms, and ca
 - Other gifts, curses, marks, or transformations:
   - Feels the growing attention of a greater Something touched during a healing ritual
   - Fears that the power she borrowed to heal was real, alien, and owed a price
+  - Unconscious after failing the wound-collapse roll
+  - Critical survival roll pending later because the physical wound exceeds her own Rating
 
 ## Carried Now
 
@@ -162,6 +155,7 @@ Player-character state, personal history anchors, Ratings, wounds, Dooms, and ca
 - 2026-04-17: Added finalized Bloom of Power allocation, strongest specialty in healing/herbalism, arrival premise, and the Crossrow miracle backstory.
 - 2026-04-17: Added Muriel, Cal, and the deeper emotional history around Honorine's grief, guilt, and rage.
 - 2026-04-17: Took key supplies and clue objects from the Abandoned Campground.
+- 2026-04-17: Suffered 1 mental wound and a catastrophic Rating 7 physical wound at The Rake and the Doe; collapsed unconscious.
 
 ## Cypher Abilities And Traits Reference
 
